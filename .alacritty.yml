@@ -1,3 +1,18 @@
+font:
+  normal:
+    family: Cascadia Mono PL
+    style: Regular
+  bold:
+    family: Cascadia Mono PL
+    style: Bold
+  italic:
+    family: Cascadia Mono PL
+    style: Italic
+  bold_italic:
+    family: Cascadia Mono PL
+    style: Bold Italic
+  size: 11.0
+
 key_bindings:
   - { key: Q, mods: Control, chars: "\x11" }
 
