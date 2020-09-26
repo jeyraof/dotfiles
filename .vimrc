@@ -50,3 +50,6 @@ let g:plug_timeout=500
 " solarized theme
 " let g:solarized_contrast="high"
 " let g:solarized_visibility="high"
+
+"fzf
+set rtp+=/usr/local/opt/fzf
