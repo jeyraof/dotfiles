@@ -16,3 +16,8 @@ font:
 key_bindings:
   - { key: Q, mods: Control, chars: "\x11" }
 
+window:
+  dimensions:
+    columns: 220
+    lines: 80
+

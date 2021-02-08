@@ -2,9 +2,7 @@ syntax enable
 
 " theme
 " colorscheme solarized
-" set background=dark
-
-" editor
+" set background=dark " editor
 set backspace=2                 " backspace works like most other apps. move from current line
 set colorcolumn=100,120         " draw placeholder for columns.
 set encoding=utf-8              " document encoding
@@ -29,6 +27,7 @@ autocmd Filetype html setlocal softtabstop=4 shiftwidth=4 tabstop=4
 autocmd Filetype javascript setlocal softtabstop=2 shiftwidth=2 tabstop=2
 autocmd Filetype python setlocal softtabstop=4 shiftwidth=4 tabstop=4
 autocmd Filetype ruby setlocal softtabstop=2 shiftwidth=2 tabstop=2
+autocmd Filetype yaml setlocal softtabstop=2 shiftwidth=2 tabstop=2
 
 " hotkeys
 " map <C-n> :NERDTreeToggle<CR>
