@@ -25,13 +25,18 @@ zinit ice compile'(pure|async).zsh' pick'async.zsh' src'pure.zsh'
 zinit light sindresorhus/pure
 zinit light zsh-users/zsh-syntax-highlighting
 
+# fzf - https://github.com/junegunn/fzf
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
-# tmux
+## aliases
+# tmux - https://github.com/tmux/tmux
 alias tl='tmux list-sessions'
 alias tn='tmux new-session -s'
 alias tk='tmux kill-session -t'
 alias ta='tmux attach -t'
+# lsd - https://github.com/Peltoche/lsd
+alias ls='lsd' 
 
-# aliases
-alias ls='exa'
+# direnv - https://github.com/direnv/direnv
+eval "$(direnv hook zsh)"
+
