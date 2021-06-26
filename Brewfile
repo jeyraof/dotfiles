@@ -1,4 +1,3 @@
-brew "zsh"
 brew "fzf"
 brew "git"
 brew "exa"
@@ -8,6 +7,7 @@ brew "fasd"
 brew "fd"
 brew "direnv"
 brew "git-lfs"
+brew "gpg"
 
 cask "alacritty"
 
