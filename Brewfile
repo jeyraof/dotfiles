@@ -31,6 +31,8 @@ cask "font-sarasa-gothic"
 cask "ghostty"
 # Web browser
 cask "google-chrome"
+# Utility to hide menu bar items
+cask "hiddenbar"
 # Property list and JSON editor
 cask "plistedit-pro"
 # Move and resize windows using keyboard shortcuts or snap areas
