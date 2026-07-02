@@ -24,6 +24,8 @@ brew "vim"
 brew "zoxide"
 # Password manager that keeps all passwords secure behind one password
 cask "1password"
+# Voice and text chat software
+cask "discord"
 cask "font-sarasa-gothic"
 # Terminal emulator that uses platform-native UI and GPU acceleration
 cask "ghostty"
@@ -35,5 +37,7 @@ cask "plistedit-pro"
 cask "rectangle"
 # Screenshot measurement and annotation tool
 cask "shottr"
+# Music streaming service
+cask "spotify"
 # Open-source code editor
 cask "visual-studio-code"
