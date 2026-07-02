@@ -41,5 +41,7 @@ cask "rectangle"
 cask "shottr"
 # Music streaming service
 cask "spotify"
+# Messaging app with a focus on speed and security
+cask "telegram"
 # Open-source code editor
 cask "visual-studio-code"
