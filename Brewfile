@@ -24,6 +24,7 @@ brew "vim"
 brew "zoxide"
 # Password manager that keeps all passwords secure behind one password
 cask "1password"
+cask "font-sarasa-gothic"
 # Terminal emulator that uses platform-native UI and GPU acceleration
 cask "ghostty"
 # Web browser

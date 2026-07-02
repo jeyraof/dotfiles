@@ -1,0 +1,12 @@
+keybind = global:ctrl+cmd+grave_accent=toggle_quick_terminal
+quick-terminal-position = "bottom"
+quick-terminal-size = "50%"
+quick-terminal-animation-duration = 0
+
+cursor-style = "block"
+
+font-family = ""
+font-family = "Sarasa Mono K"
+
+background-opacity = 0.8
+background-blur-radius = 15
