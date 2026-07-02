@@ -31,6 +31,8 @@ cask "ghostty"
 cask "google-chrome"
 # Property list and JSON editor
 cask "plistedit-pro"
+# Move and resize windows using keyboard shortcuts or snap areas
+cask "rectangle"
 # Screenshot measurement and annotation tool
 cask "shottr"
 # Open-source code editor
