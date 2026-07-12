@@ -1,4 +1,4 @@
-keybind = global:ctrl+cmd+grave_accent=toggle_quick_terminal
+keybind = global:ctrl+cmd+\=toggle_quick_terminal
 quick-terminal-position = "bottom"
 quick-terminal-size = "50%"
 quick-terminal-animation-duration = 0
